@@ -1,6 +1,6 @@
 = Your Blog title
- See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
- :hp-image: /covers/cover.png
- :published_at: 2019-01-31
+ See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information  about the parameters.
+ :hp-image: /images/27_1x.jpg
+ :published_at: 2017-11-22
  :hp-tags: HubPress, Blog, Open_Source,
  :hp-alt-title: My English Title
