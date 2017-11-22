@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Techgeek Hub]]></title><description><![CDATA[Techgeek Hub]]></description><link>https://techgeekhub.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Nov 2017 15:14:26 GMT</lastBuildDate><atom:link href="https://techgeekhub.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Your Blog title]]></title><description><![CDATA[<div class="literalblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Techgeek Hub]]></title><description><![CDATA[Techgeek Hub]]></description><link>https://techgeekhub.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 22 Nov 2017 15:17:43 GMT</lastBuildDate><atom:link href="https://techgeekhub.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Your Blog title]]></title><description><![CDATA[<div class="literalblock">
 <div class="content">
-<pre>:published_at: 2017-11-22
-:hp-tags: HubPress, Blog, Open_Source,
+<pre>:hp-tags: HubPress, Blog, Open_Source,
 :hp-alt-title: My English Title</pre>
 </div>
 </div>]]></description><link>https://techgeekhub.github.io/2017/11/22/Your-Blog-title.html</link><guid isPermaLink="true">https://techgeekhub.github.io/2017/11/22/Your-Blog-title.html</guid><pubDate>Wed, 22 Nov 2017 00:00:00 GMT</pubDate></item></channel></rss>
