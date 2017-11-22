@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://techgeekhub.github.io",
     "hubpress": "https://techgeekhub.github.io",
-    "theme": "//techgeekhub.github.io/themes/uno-zen",
+    "theme": "//techgeekhub.github.io/themes/saga",
     "images": "https://techgeekhub.github.io/images"
   },
   "initialisationConfigComponent": {
